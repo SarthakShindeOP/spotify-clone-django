@@ -8,8 +8,8 @@ PLAYLISTS = [['Accidental','https://open.spotify.com/playlist/0zJ8hC8YJOcHYuk5nM
 ['Programming & Coding Music','https://open.spotify.com/playlist/6vWEpKDjVitlEDrOmLjIAj', 'PL59eqqQABruNew5O0cRvomfbU6FI0RGyl'],
 ['Spanish','https://open.spotify.com/playlist/75QJ1JeFaeSm0uH1znWxb0?si=Lt4kd-RARBu2TQz35RAQiQ', 'PL59eqqQABruM3TLAGthvgW10c1R6omGwq']
 ]
-client_credentials_manager = SpotifyClientCredentials(client_id='e5d66c188ef64dd89afa4d13f9555411',
-                client_secret='d070988d7bd5479a9e0818fa23839544')
+client_credentials_manager = SpotifyClientCredentials(client_id='{client_id}',
+                client_secret='{client_secret}')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
