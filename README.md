@@ -2,7 +2,8 @@
 
 
 
-## Checkout the web-app [YOUTTIFY](https://youttify.pythonanywhere.com/)
+## Checkout the web-app <a href="https://youttify.pythonanywhere.com/" target="_blank">YOUTTIFY</a>
+
 
 
 ## Getting Started
